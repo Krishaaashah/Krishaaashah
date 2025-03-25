@@ -10,3 +10,6 @@
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
+
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/D6gbkSADqm?theme=dark&font=Karma)
+
