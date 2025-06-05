@@ -1,7 +1,6 @@
 ### Hi there, I'm Krisha! 👋
 
-🚀 AI/ML Enthusiast | Developer 
-🎓 B.Tech in AI/ML | Passionate about AI for Social Impact
+AI/ML Enthusiast | B.Tech in AI/ML | Passionate about AI for Social Impact
 
 ---
 
